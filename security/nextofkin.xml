@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <data>
+
+        <record model="ir.module.category" id="modul_nok_category">
+            <field name="name">Next Of Kin</field>
+            <field name="sequence">1</field>
+        </record>
+
+        <record id="group_family_manager" model="res.groups">
+            <field name="name">Family Manager</field>
+            <field name="category_id" ref="modul_nok_category"/>
+        </record>
+
+       
+
+       
+    </data>
+</odoo>
