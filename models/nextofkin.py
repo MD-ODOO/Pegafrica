@@ -14,7 +14,7 @@ class Nextofkin(models.Model):
     age = fields.Integer(string='Age',compute='compute_age')
     date = fields.Date(string='Date of birth')
 
-   #methode to calculate by using date of birth 
+   #methode to calculate age by using date of birth 
     @api.depends('date')
     def compute_age(self):
         '''Method to calculate age'''
