@@ -9,7 +9,7 @@
         <field name="arch" type="xml">
         <xpath expr="//notebook/page[@name='internal_notes']"
                     position="after">
-                <!-- <page name="internal_notes" position="after"   > -->
+              
                     <page string="Next of kin" name="Next of skin"  groups="pegafrictest.group_family_manager" >
                         <group>
                             <group>
@@ -22,7 +22,7 @@
                             </group>
                         </group>
                     </page>
-                <!-- </page> -->
+       
             </xpath>
         </field>
     </record>
