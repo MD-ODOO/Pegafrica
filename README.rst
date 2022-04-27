@@ -9,7 +9,7 @@ first name
 Date of Birth
 age (which is calculated automatically based on the date of birth)
 
-Only members of the 'family manager' group (configuration) can access it
+Only members of the 'family manager' group (configuration) can access it.
 
 Installation
 ============
