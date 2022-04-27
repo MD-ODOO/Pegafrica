@@ -3,7 +3,7 @@
     <data>
 
         <record model="ir.module.category" id="modul_nok_category">
-            <field name="name">PegAfrica Teste</field>
+            <field name="name">Pegafrica Teste Group</field>
             <field name="sequence">1</field>
         </record>
 
