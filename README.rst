@@ -15,7 +15,7 @@ Installation
 ============
 
 To install this module, you need to:
-install 'contacts' module
+install 'contacts' module .
 
 
 Usage
