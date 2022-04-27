@@ -4,7 +4,7 @@
     'sequence': '1',
 
     'description': """
-        Long description of module's purpose
+        
     """,
 
     'author': "PegAfrica",
